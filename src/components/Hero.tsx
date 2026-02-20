@@ -54,8 +54,8 @@ export const Hero: React.FC = () => {
           {/* Main Heading — Cinzel Font */}
           <MorphReveal animation="clip" easing="sharp" duration={1} delay={0.2}>
             <h1
-              className="text-5xl md:text-7xl lg:text-8xl mb-6 leading-[0.92] tracking-tight"
-              style={{ fontFamily: "'Cinzel', serif", fontWeight: 900 }}
+              className="text-5xl md:text-7xl lg:text-8xl mb-6 leading-[0.92] tracking-widest"
+              style={{ fontFamily: "'Cinzel', serif", fontWeight: 400 }}
             >
               <span style={{ color: '#F9F9F9' }}>SMP IT</span>
               <br />
