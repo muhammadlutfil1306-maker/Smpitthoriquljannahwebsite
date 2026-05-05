@@ -175,8 +175,7 @@ export const Hero: React.FC = () => {
                 className="absolute bottom-8 left-8"
               >
                 <p className="text-4xl text-white" style={{ fontWeight: 800 }}>98%</p>
-                <p className="text-sm text-slate-400 uppercase tracking-[0.15em]" style={{ fontWeight: 600 }}>Lulusan PTN</p>
-              </motion.div>
+                </motion.div>
             </div>
           </MorphReveal>
 
